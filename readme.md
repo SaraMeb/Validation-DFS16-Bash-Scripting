@@ -1,4 +1,4 @@
-##Le Projet de Sara Et Leîla Mebrouka
+# Le Projet de Sara Et Leîla Mebrouka
 
 ### Le Premier script : script1-vagrant.sh 
 1. Au lancement de ce script, un Vagrantfile se crée avec la comande touch puis on demande le nom du dossier à synchroniser avec ce fichier.
@@ -25,5 +25,5 @@ On a utilisé des fonctions, des boucles et des conditions.
 
 
 1. Commander: on a le choix entre 3 types de menus différents avec des prix différents.
-2. Valider la commande: le total de notre commande s'affiche et on a la possibilité de finaliser ou de continuer à commander ce qui permet de se remettre dans la boucle et de continuer à commander
-3. Anuuler : on annule la commande et on sort du script
+2. Valider la commande: le total de notre commande s'affiche et on a la possibilité de finaliser ou de continuer à commander ce qui permet de se remettre dans la boucle et de continuer à commander et d'afficher le montant total de la commade.
+3. Annuler : on annule la commande et on sort du script.
