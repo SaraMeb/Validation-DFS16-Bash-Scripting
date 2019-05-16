@@ -1,7 +1,7 @@
 # Le Projet de Sara Et Leîla Mebrouka
 
 ### Le Premier script : script1-vagrant.sh 
-##### Pour lancer le script entrez la commande : bash script1-vagrant.sh
+##### Pour lancer le script entrez la commande : ```bash script1-vagrant.sh```
 1. Au lancement de ce script, un Vagrantfile se crée avec la comande touch puis on demande le nom du dossier à synchroniser avec ce fichier.
 2. On crée le dossier avec la commande mkdir
 3. Puis on écrit et modifie le Vagrantfile créé et on y met les informations importantes comme :
