@@ -106,16 +106,6 @@ do
                 3) HungryCF ;;
 
             esac
-            if [[ $choixEnfant == "a" ]]
-            then
-                HungryCB 
-            elif [[ $choixEnfant == "b" ]]
-            then 
-                HungryCN
-            elif [[ $choixEnfant == "c" ]]
-            then 
-                HungryCF
-            fi 
             echo "Selectionnez un accompagnement"
             read -p  "0) Frites 1) Potatoes 2) Carottes   " accompagnement
             echo "Selectionnez une sauce"
