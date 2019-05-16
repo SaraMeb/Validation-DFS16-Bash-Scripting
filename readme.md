@@ -12,7 +12,7 @@
 4. On ajoute la commande pour le lancement de la VM et pour entrer dans la vm
 
 ### Le Deuxieme  script : script2-git.sh 
-##### Pour lancer le script entrez la commande : bash script2-git.sh
+##### Pour lancer le script entrez la commande : ```bash script2-git.sh```
 1. On crée un repo git avec la commande " git init"
 2. On ajoute les fichiers/dossiers à ce repo
 3. On demande à l'utilisateur d'écrire un message personnalisé pour son commit pour que ses                 modifications soient sauvegardées
@@ -21,7 +21,7 @@
 6. On push le repo local sur le repo distant de la branche choisie
 
 ### Le Troisiéme  script : script3-perso.sh
-##### Pour lancer le script entrez la commande : script3-perso.sh
+##### Pour lancer le script entrez la commande : ```bash script3-perso.sh```
 Dans ce script, nous avons choisi de faire une sorte de borde de commande de fast-food.
 Au lancement du script on entre dans une boucle qui propose de commander, valider une commande ou d'annuler.
 On a utilisé des fonctions, des boucles et des conditions.
